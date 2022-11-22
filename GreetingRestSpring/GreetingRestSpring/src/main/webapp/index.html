@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+p.big {
+	line-height: 2;
+}
+</style>
+<title>Greeting RESTful Spring Service</title>
+</head>
+<body>
+	<h1 style="text-align: center;">Greeting RESTful Spring Service</h1>
+	<h2 style="text-align: center;">REST Endpoints</h2>
+
+
+	<h3 style="text-align: center; color: red;">
+		<b>GreetingResource</b>
+	</h3>
+	
+		<h3 style="text-align: center; color: blue;">
+		<b>GET Paths</b>
+	</h3>
+
+	<h4 align="center">
+		<p class="big">
+			<a href="spring/greetings/count/1">GET greeting count - 1</a>
+			</br>
+			<a href="spring/greetings/count/2">GET greeting count - 2</a>
+			</br>
+			<a href="spring/greetings">GET all greetings</a>
+			</br>
+			<a href="spring/greetings/objects">GET all greeting objects as JSON. Pass the request with Accept:
+				application/json</a>
+			</br>
+			<a href="spring/greetings/objects">GET all greeting objects as XML. Pass the request with Accept:
+				application/xml</a>
+			</br>
+			<a href="spring/greetings/objectsJSONorXML">GET all greeting objects as JSON or XML depending on request's
+				Accept header.</br> Pass the request with <i>Accept: application/json</i> or <i>Accept: application/xml</i>
+			</a> <a href="spring/greetings/languages">GET all languages</a>
+			</br>
+			<a href="spring/greetings/language/1">GET the greeting for given <i>language</i>
+			</a> such as <a href="spring/greetings/turkish/1">spring/greetings/turkish/1</a>
+			</br>
+			<a href="spring/greetings/language/2">GET the greeting for given <i>language</i>
+			</a> such as <a href="spring/greetings/turkish/2">spring/greetings/turkish/2</a>
+			</br>
+			<a href="resources/greetings/query">GET the greeting for given <i>language</i> using a query
+			</a> such as <a href="resources/greetings/query?language=turkish">resources/greetings/query?language=turkish</a>
+	</h4>
+	
+	<h3 style="text-align: center; color: blue;">
+		<b>POST Paths</b>
+	</h3>
+	<h4 align="center">
+		<p class="big">
+		<a href="resources/greetings/">POST a new greeting using <i>language</i> and <i>greeting</i></a> such as <a
+				href="resources/greetings/arabic/assalamuualaikum">resources/greetings/arabic/assalamualaikum.</a>
+			</br>
+		<a href="resources/greetings/">POST a new greeting using an entity</a>
+			</br>
+		</p>
+	</h4>
+	
+		<h3 style="text-align: center; color: blue;">
+		<b>PUT Paths</b>
+	</h3>
+	<h4 align="center">
+		<p class="big">
+			<a href="resources/greetings/language/greeting">PUT an existing greeting with new using <i>language</i> and <i>greeting</i></a>
+			</br>
+		</p>
+	</h4>
+</body>
+</html>

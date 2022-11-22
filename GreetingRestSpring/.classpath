@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="GreetingRestSpring/src/main/java"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._jackson-annotations-2.14.0.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._jackson-core-2.14.0.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._jackson-databind-2.14.0.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._jackson-dataformat-xml-2.14.0.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._jackson-datatype-jdk8-2.12.0.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._jackson-datatype-jsr310-2.12.0.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._jaxb-api-2.1.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._spring-aop-5.3.0.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._spring-beans-5.3.0.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._spring-context-5.3.0.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._spring-core-5.3.0.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._spring-data-commons-2.3.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._spring-data-jpa-2.3.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._spring-expression-5.3.0.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._spring-web-5.3.0.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._spring-webmvc-5.3.0.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._stax2-api-4.2.1.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/GreetingRestSpring/src/main/webapp/WEB-INF/lib/._woodstox-core-6.4.0.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/jackson-annotations-2.14.0.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/jackson-core-2.14.0.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/jackson-databind-2.14.0.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/jackson-dataformat-xml-2.14.0.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/jackson-datatype-jdk8-2.12.0.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/jackson-datatype-jsr310-2.12.0.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/jaxb-api-2.1.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/spring-aop-5.3.0.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/spring-beans-5.3.0.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/spring-context-5.3.0.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/spring-core-5.3.0.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/spring-data-commons-2.3.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/spring-data-jpa-2.3.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/spring-expression-5.3.0.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/spring-web-5.3.0.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.0.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/stax2-api-4.2.1.jar"/>
+	<classpathentry kind="lib" path="GreetingRestSpring/src/main/webapp/WEB-INF/lib/woodstox-core-6.4.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Referenced Libraries"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/KUTUP"/>
+	<classpathentry kind="output" path="GreetingRestSpring/build/classes"/>
+</classpath>
